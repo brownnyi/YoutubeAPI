@@ -1,0 +1,7 @@
+langchain==0.0.316
+streamlit==1.21.0
+youtube_transcript_api==0.6.0
+konlpy
+openai
+tiktoken
+selenium
